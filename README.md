@@ -85,4 +85,5 @@ A full-stack university portal with **homepage**, **attendance marking**, **assi
 - `GET /api/submissions` — Submissions list
 - `GET /api/admin/*` — Admin stats, users, classes
 
-Good luck with your hackathon.
+
+
